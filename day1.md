@@ -10,3 +10,5 @@
 [MacOS下Github添加ssh key的步骤](https://www.jianshu.com/p/2304c9b1c4b6)
 
 [mac终端命令总结](https://blog.csdn.net/tammy_min/article/details/14223791)
+
+[删除暂存区或版本库中的文件](https://www.cnblogs.com/cposture/p/git.html)
