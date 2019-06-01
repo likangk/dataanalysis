@@ -3,7 +3,7 @@
 
 [Git常用操作](https://github.com/yanqiangsjz/git-study/blob/master/git.md)
 
-[Makedown在线编辑地址](https://jbt.github.io/markdown-editor/)
+[Markdown在线编辑地址](https://jbt.github.io/markdown-editor/)
 
 [在线打卡文档地址](https://shimo.im/sheets/WUgC1M4AomgOjSdO/MODOC)
 
